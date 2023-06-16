@@ -16,10 +16,4 @@ function saturdayFun(activity = 'roller-skate') {
     };
   }
   
-  // Export the functions to be used in tests or other files
-  module.exports = {
-    saturdayFun,
-    mondayWork,
-    wrapAdjective,
-  };
   
